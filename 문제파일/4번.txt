@@ -1,0 +1,6 @@
+4. 객체지향에서 정보 은닉과 가장 밀접한 관계가 있는 것은? 
+   ① Encapsulation		
+   ② Class
+   ③ Method
+   ④ Instance
+정답:1

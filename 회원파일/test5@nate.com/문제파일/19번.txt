@@ -1,0 +1,5 @@
+19. 물리데이터 저장소의 파티션 설계에서 파티션 유형으로 옳지 않은 것은?
+    ① 범위분할(Range Partitioning)
+    ② 해시분할(Hash Partitioning)
+    ③ 조합분할(Composite Partitioning)
+    ④ 유닛분할(Unit Partitioning)
